@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thomboy
-- 👀 I’m interested in Netwworks, Security, Cloud, Terraform, Ansible 
+- 👀 I’m interested in Network, Security, Cloud, Terraform, Ansible and any kind of automation
 - 🌱 I’m currently learning Terraform
 
 
